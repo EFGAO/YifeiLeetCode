@@ -10,7 +10,7 @@ package leetcode29;
  * Created by GaoYifei on 3/13/17.
  */
 
-// 解决了TLE的问题 
+// 解决了TLE的问题
 public class Solution {
     public int divide(int dividend, int divisor) {
         if(divisor == 0 || dividend == 0) return 0;
