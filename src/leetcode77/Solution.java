@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Created by GaoYifei on 4/4/17.
  */
-// a backtracking problem similar as Permutation 
+// a backtracking problem similar as Permutation
 public class Solution {
     List<List<Integer>> res;
     public List<List<Integer>> combine(int n, int k) {
